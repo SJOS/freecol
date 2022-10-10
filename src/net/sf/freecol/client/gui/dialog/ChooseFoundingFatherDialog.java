@@ -22,10 +22,7 @@ package net.sf.freecol.client.gui.dialog;
 import java.util.List;
 import java.util.logging.Logger;
 
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JTabbedPane;
+import javax.swing.*;
 
 import net.miginfocom.swing.MigLayout;
 import net.sf.freecol.client.FreeColClient;
